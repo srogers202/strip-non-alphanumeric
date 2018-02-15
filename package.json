@@ -1,0 +1,25 @@
+{
+  "name": "strip-non-alphanumeric",
+  "version": "0.0.1",
+  "description": "Strip non-alphanumeric characters from strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srogers202/strip-non-alphanumeric.git"
+  },
+  "keywords": [
+    "strip",
+    "non-alphanumeric",
+    "string"
+  ],
+  "author": "Seth Rogers <sethhrogers@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^22.3.0"
+  },
+  "dependencies": {}
+}

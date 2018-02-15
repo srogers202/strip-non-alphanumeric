@@ -1,0 +1,1 @@
+module.exports = s => typeof s === 'string' ? s.replace(/[^a-z0-9|\s]+/gi, '') : s;
